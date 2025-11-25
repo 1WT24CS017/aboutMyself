@@ -5,5 +5,5 @@ Semester : Third
 Section : A
 Branch : Computer Science And Engineering
 Year Of Admission : 2024
-College Name : GITW
+College Name : Ghousia institute of technology for women
 
