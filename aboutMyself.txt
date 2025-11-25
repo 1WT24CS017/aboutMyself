@@ -1,17 +1,14 @@
-<<<<<<< HEAD
+HEAD
 Title : Ms
-=======
 Tite : Ms
->>>>>>> feature-branch
+feature-branch
 Full Name : Naziya khan
 USN : 1WT24CS017
 Semester : Third
 Section : A
 Branch : Computer Science And Engineering
-<<<<<<< HEAD
+HEAD
 Year of Admission : 2024
-=======
-Year Of Admission : 2024
->>>>>>> feature-branch
+feature-branch
 College Name : GITW
 
