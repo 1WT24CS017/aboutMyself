@@ -6,4 +6,10 @@ Section : A
 Branch : Computer Science And Engineering
 Year of Admission : 2024
 College Name : GHOUSIA INSTITUTE OF TECHNOLOGY FOR WOMEN
+Year Of Admission : 2024
+College Name : Ghousia institute of technology for women
+SSLC:Al-Hasnath Academic High School
+PUC:Iqra pu college
+UG Degree:Ghousia institute of technology for women
+
 
