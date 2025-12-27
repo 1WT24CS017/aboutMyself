@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Name:Naziya Khanum
+Email:naziyakhan78@gmail.com
+=======
+>>>>>>> feature-branch
 
